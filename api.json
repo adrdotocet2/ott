@@ -1,14 +1,15 @@
 {
     "addr":{
-        "durl": "https://github.com/adrdotocet2/ott/releases/download/0.07/oa.cgg.1",
-        "durl2": "https://github.com/adrdotocet2/ott/releases/download/0.07/oa.cgg.1",
-        "durl3": "https://raw.githubusercontent.com/adrdotocet2/ott/main/oa.cgg.1",
-        "ver": "3",
-        "vname":"oa.cgg.1",
+        "durl": "Qe5RgpTY2oBM+dp7zgntUrnFk+UwaiVf3CAj9NqwxPhyraLT1g3daA39BvWYpi5+Kfl4dYyI5NszCrp+X+MbuHkcbmqj2RgJZI2ICQ+ULSY=",
+        "durl2": "Qe5RgpTY2oBM+dp7zgntUrnFk+UwaiVf3CAj9NqwxPhyraLT1g3daA39BvWYpi5+Kfl4dYyI5NszCrp+X+MbuHkcbmqj2RgJZI2ICQ+ULSY=",
+        "durl3": "NFiM7hkyQNHFraly0A2xyBPlBA4D0YIWFK6RjMMpfqp9/IkGj1ngxvtUeec8JnvzAqgJESTCdfHQLmOZoRj0MQ==",
+        "ver": "4",
+        "vname":"3Gb+vYQ3qfJtBzWGzWGs7A==",
         "online":"true",
         "rom":"true",
-        "pkg":"com.hwsen.oat.SDK",
-        "method":"onCreate",
+        "update":"true",
+        "pkg":"Dl5pbBH0JHsmDSRm9hbS7V20S2PDn1spuVw2Vfut6RhkHByGVtvM7PU2k7C/Mu+X",
+        "method":"2SRUeH3JsY29c5hhrX88nQ==",
         "param":"t"
     }
 }
